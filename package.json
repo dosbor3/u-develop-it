@@ -1,0 +1,28 @@
+{
+  "dependencies": {
+    "express": "^4.17.2",
+    "mysql2": "^2.3.3"
+  },
+  "name": "u-develop-it",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --colors",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dosbor3/u-develop-it.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dosbor3/u-develop-it/issues"
+  },
+  "homepage": "https://github.com/dosbor3/u-develop-it#readme",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
