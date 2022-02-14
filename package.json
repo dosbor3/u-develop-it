@@ -1,14 +1,4 @@
 {
-<<<<<<< HEAD
-  "dependencies": {
-    "express": "^4.17.2",
-    "mysql2": "^2.3.3"
-  },
-  "name": "u-develop-it",
-  "description": "",
-  "version": "1.0.0",
-  "main": "index.js",
-=======
   "name": "u-develop-it",
   "version": "1.0.0",
   "description": "",
@@ -311,7 +301,6 @@
     "yargs": "^16.2.0",
     "yargs-parser": "^20.2.9"
   },
->>>>>>> feature/candidates
   "scripts": {
     "test": "jest --colors",
     "start": "node server.js"
