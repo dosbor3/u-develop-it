@@ -1,3 +1,8 @@
+CREATE TABLE parties (
+  id INTEGER AUTO_INCREMENT PRIMARY KEY,
+  name VARCHAR(30) NOT NULL,
+  description TEXT
+);
 
 CREATE TABLE candidates (
   id INTEGER AUTO_INCREMENT PRIMARY KEY,
@@ -5,3 +10,4 @@ CREATE TABLE candidates (
   last_name VARCHAR(30) NOT NULL,
   industry_connected BOOLEAN NOT NULL
 );
+
