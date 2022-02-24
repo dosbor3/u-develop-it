@@ -45,6 +45,7 @@
     "color-name": "^1.1.4",
     "combined-stream": "^1.0.8",
     "concat-map": "^0.0.1",
+    "console.table": "^0.10.0",
     "content-disposition": "^0.5.4",
     "content-type": "^1.0.4",
     "convert-source-map": "^1.8.0",
